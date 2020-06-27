@@ -12,6 +12,8 @@ import javax.swing.JFrame;
 
 import java.applet.AudioClip;
 
+
+
 public class ShowUI extends JFrame{
 	
 	//定义常量
